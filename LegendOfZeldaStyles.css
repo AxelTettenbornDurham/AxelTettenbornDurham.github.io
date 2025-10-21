@@ -1,0 +1,21 @@
+html {
+    font-family: fantasy;
+}
+h1 {
+    background-color: antiquewhite;
+}
+li {
+    list-style: none;
+    background-image: url("https://images.seeklogo.com/logo-png/25/1/the-legend-of-zelda-hyrulian-crest-logo-png_seeklogo-258099.png");
+    background-repeat: no-repeat;
+    padding: 10px 30px;
+    background-position: left center;
+    background-size: 20px;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+}
+th {
+    background-color: #EFBF04;
+}
